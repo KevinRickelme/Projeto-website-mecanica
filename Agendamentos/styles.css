@@ -1,0 +1,102 @@
+#HTML{
+  font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+
+div.fundo12{
+  background-color: red;
+  opacity: 0.5;
+  width: 1920px;
+  height: 1080px;
+  position: fixed;
+
+}
+
+form{
+  font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  color: black;
+  }
+.wrapper1{
+  width: 100%;
+  float: top;
+  margin-top: -3.5%;
+
+}
+
+.agenda-form1{
+  display: flex;
+  max-width: 1000px;
+  height: 500px;
+  background: transparent;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  margin: 5% auto;
+
+}
+
+.tudo-fields1{
+  display: flex;
+  flex-direction: column;
+  margin-right: 4%;
+}
+
+.tudo-fields1,
+.msg{
+  width: 100%;
+}
+
+.tudo-fields1 .input,
+.msg{
+  font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  margin: 10px 0;
+  background: #000;
+  border: 5px;
+  border-bottom: 3px solid #F00;
+  padding: 5px;
+  color: #FFF;
+  width: 100%;
+  opacity: 65%;
+}
+
+#servicos{
+  width:940px;
+
+}
+
+.msg1{
+  font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  height: 80px;
+  background-color: #000;
+  opacity: 60%;
+}
+
+::-webkit-input-placeholder {
+  color: #FFF;
+}
+
+.btn1 {
+    position: relative;
+    width: 940px;
+    background: #F00;
+    text-align: center;
+    margin-left:-5px;
+    padding: 10px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+footer{
+   position:fixed;
+    bottom:0px;
+    width:100%;
+    text-align:center;
+    padding-top:5px;
+    padding-bottom:5px;
+    color:#ffffff;
+  }
+
+.msgAgenda{
+  font-size: 30px;
+  text-align: center;
+}

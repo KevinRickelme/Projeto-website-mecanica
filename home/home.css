@@ -1,0 +1,38 @@
+#Html{
+	font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+.linha {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic;
+	margin: 10 10 10 25px;
+	display: inline;
+	padding: 20px;
+}
+.corpo {
+	font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	margin-top: 20px;
+	text-align: center;
+	padding: 5px;
+	line-height: 30px;
+}
+h1{
+	font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+p{
+	font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+footer{
+	font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	padding: 10px;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	background: url(bg.jpg);
+}
+

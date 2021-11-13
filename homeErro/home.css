@@ -1,0 +1,58 @@
+#Html{
+	font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+.linha {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic;
+	margin: 10 10 10 25px;
+	display: inline;
+	padding: 20px;
+}
+.corpo {
+	font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	margin-top: 20px;
+	text-align: center;
+	padding: 5px;
+	line-height: 30px;
+}
+h1{
+	font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+p{
+	font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+footer{
+	font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	padding: 10px;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	background: url(bg.jpg);
+}
+
+.txtlogin1{
+	font-family: CenturyGothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+	font-size:15px;
+	margin-top:-1%;
+	color: white;
+}
+.agenda-form10{
+  display: flex;
+  max-width: 900px;
+  height: 400px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(255,0,0,0.4);
+  margin: 0 auto;	
+  margin-right: 50%;
+}
+.wrapper1{
+  width: 200%;
+  float: top;
+  position: absolute;
